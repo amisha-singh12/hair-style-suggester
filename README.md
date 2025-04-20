@@ -10,13 +10,14 @@ This project brings logic to the chaos, using real facial metrics and trained mo
 
 ## 📸 Demo
 
-> *(Make sure to place your images in the `assets/` folder)*
+### Website Front
+![Face Detection Demo](assets/Screenshot%202025-03-17%20235011.png)
 
 ### Face Shape Detection  
-![Face Detection Demo](assets/face_detection_demo.png)
+![Face Detection Demo](assets/Screenshot%202025-04-20%20152749.png)
 
 ### Hairstyle Suggestions  
-![Hairstyle Suggestion Example](assets/hairstyle_suggestion_example.png)
+![Hairstyle Suggestion Example](assets/Screenshot%202025-04-20%20152749.png)
 
 ---
 
