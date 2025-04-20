@@ -52,7 +52,7 @@ This project brings logic to the chaos, using real facial metrics and trained mo
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/repo-forge.git
+   git clone https://github.com/amisha-singh12/hair-style-suggester.git
    cd repo-forge
 
 
