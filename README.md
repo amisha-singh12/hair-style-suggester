@@ -14,7 +14,7 @@ This project brings logic to the chaos, using real facial metrics and trained mo
 ![Face Detection Demo](assets/Screenshot%202025-03-17%20235011.png)
 
 ### Face Shape Detection  
-![Face Detection Demo](assets/Screenshot%202025-04-20%20152749.png)
+![Face Detection Demo](assets/Screenshot_20-4-2025_152537_.jpeg)
 
 ### Hairstyle Suggestions  
 ![Hairstyle Suggestion Example](assets/Screenshot%202025-04-20%20152749.png)
@@ -42,13 +42,17 @@ This project brings logic to the chaos, using real facial metrics and trained mo
 
 ## 🧰 Tech Stack
 
-- **Python** for backend processing
-- **OpenCV**, **Dlib**, or **Mediapipe** for face detection and landmark prediction
-- **Flask** (or FastAPI) as the backend framework
 - **HTML/CSS/JavaScript** for frontend interface
-- *(Optional)* React.js for enhanced frontend experience
+1. **User Model:** Manages user data, including authentication information.
+2. **Repository Model:** Stores repository metadata and links to files stored on AWS S3.
+3. **Commit Model:** Stores commit information, including timestamps and changes made.
 
----
 
-## 📁 Project Structure
+### Installation
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/yourusername/repo-forge.git
+   cd repo-forge
+
 
